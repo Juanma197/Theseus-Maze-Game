@@ -24,7 +24,7 @@ A Unity-powered 2D-3D maze game that generates a new map every time you play.
 
 # Folder Structure
 
-Scripts are located in `Assets/Scripts`. Maze generation and rendering handled in `MazeGenerator.cs` and `MazeRenderer.cs`.
+📄 [View Full Design Document (PDF)](Docs/Theseus_Design.pdf)
 
 # Setup Instructions
 
